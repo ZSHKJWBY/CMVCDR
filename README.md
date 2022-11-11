@@ -1,3 +1,3 @@
-# StepKT
+# CMVCDR
 
-Codes for AAAI 2023 paper [Contrastive Learning Enhanced Long- and Short-Term Interest Modeling for Cross-Domain Recommendation].
+Codes for paper [Contrastive Multi-View Interest Learning for Cross-Domain Sequential Recommendation].
